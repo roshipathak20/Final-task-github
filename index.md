@@ -1,25 +1,26 @@
-##Roshanipathak web exercise
-# Italic and bold
+# Roshanipathak web exercise #
+
+**_Italic and bold_**
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
  If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
  # Headers
- #Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
-####Colombian Symbolism in _One Hundred Years of Solitude_
-#Links
-Search for it. [Search for it](www.google.com)
+ # Header one #
+## Header two ##
+### Header three ###
+#### Header four ####
+##### Header five #####
+###### Header six ######
+#### Colombian Symbolism in _One Hundred Years of Solitude_
+# Links
+Search for it. [ Search for it ](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
-####The Latest News from [the BBC](www.bbc.com/news:)
-Do you want to [see something fun][a fun place](www.zombo.com)?
+#### The Latest News from [ the BBC ](www.bbc.com/news:) ####
+Do you want to see something fun [a fun place](www.zombo.com)?
 
-Well, do I have [the website for you][another fun place](www.stumbleupon.com)!
-# Image
+Well, do I have the website for you [another fun place](www.stumbleupon.com)!
+# Image #
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat][black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
