@@ -14,12 +14,12 @@ I **will** complete these lessons!
 ###### Header six ######
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 # Links
-Search for it.  Search for it www.google.com
-You're **really, really** going to want to see this.www.dailykitten.com
+Search for it.  Search for it https://www.google.com
+You're **really, really** going to want to see this. https://www.dailykitten.com
 #### The Latest News from [ the BBC ](www.bbc.com/news:) ####
-Do you want to see something fun a fun place www.zombo.com?
+Do you want to see something fun a fun place https://www.zombo.com ?
 
-Well, do I have the website for you another fun place www.stumbleupon.com!
+Well, do I have the website for you another fun place https://www.stumbleupon.com!
 # Image #
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
